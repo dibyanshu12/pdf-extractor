@@ -8,26 +8,17 @@ Advanced RAG Techniques: Incorporates cutting-edge RAG techniques for enhanced i
 Installation
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/dibyanshu12/pdf-extractor.git
 
 Download pre-trained LLM and RAG models (if necessary).
 
-Usage
-Run the application:
-
-
 
 Upload a document and ask questions based on the content of the document.
 
-Configuration
-Modify config.py to adjust settings such as file upload limits, model paths, etc.
+
 Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
-License
-This project is licensed under the MIT License.
 
 Acknowledgements
 This project utilizes pre-trained LLM and RAG models from Hugging Face.
